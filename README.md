@@ -20,10 +20,6 @@ Here is the cropping method:
 }
 ```
 
-<table><tr><td>
-
 ![](screenshot.png)
-
-</td></tr></table>
 
 Then we add a little interaction to show/hide the image on tap. To accomplish the show/hide, we create a cover view that matches whatever color you want. As you see in the above photo we use white. A small amount of code with lots of potential.
